@@ -7,7 +7,9 @@ img {
 }
 h1 {
   color: #5d8432;
-  font-style: italic;
+}
+figure {
   text-align: center;
-  font-size: 1 rem;
+  font-style: italic;
+  font-size: 1 rem
 }
