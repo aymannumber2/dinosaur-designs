@@ -19,7 +19,7 @@ text-align: center;
 }
 
 li {
-    font-style: bold;
+    font-weight: bold;
     font-size: 1.125rem;
 }
 
@@ -33,5 +33,5 @@ a:hover {
 }
 
 big {
-  font-size: 1.015
+  font-size: 1.0150
 }
