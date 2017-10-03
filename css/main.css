@@ -9,5 +9,10 @@ img {
 }
 
 h1, h2 {
-    color: #5d8432
+    color: #5d8432;
+}
+figcaption {
+font-size: 0.8rem;
+font-style:italic;
+text-align: center;
 }
