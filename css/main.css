@@ -22,7 +22,7 @@ figcaption {
 li {
   font-weight: bold;
   font-size: 1.125rem;
-  text-decoration: underline;
+  text-decoration: none;
   list-style-type: none;
   font-family: "Patua One", cursive;
 }
