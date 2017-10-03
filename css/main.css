@@ -22,6 +22,8 @@ figcaption {
 li {
   font-weight: bold;
   font-size: 1.125rem;
+  text-decoration: underline;
+  list-style-type: none;
 }
 
 a,
@@ -35,11 +37,4 @@ a:hover {
 
 big {
   font-size: 1.018rem;
-}
-
-nav {
-  font-family: "Patua One", cursive;
-  font-size: 1.5rem;
-  text-decoration: underline;
-  list-style-type: none;
 }
