@@ -25,3 +25,12 @@ nav li {
   text-decoration: none;
   list-style-type: none;
 }
+
+a,
+a:link {
+  color: #792384
+}
+
+a:hover {
+  color: #b42885
+}
