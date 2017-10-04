@@ -19,7 +19,7 @@ figcaption {
   text-align: center;
 }
 
-nav {
+nav li {
   font-weight: bold;
   font-size: 1.125rem;
   text-decoration: none;
