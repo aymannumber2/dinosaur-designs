@@ -18,3 +18,10 @@ figcaption {
   font-style: italic;
   text-align: center;
 }
+
+nav {
+  font-weight: bold;
+  font-size: 1.125rem;
+  text-decoration: none;
+  list-style-type: none;
+}
